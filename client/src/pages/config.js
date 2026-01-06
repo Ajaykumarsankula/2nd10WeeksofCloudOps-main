@@ -1,4 +1,5 @@
-const API_BASE_URL = "http://98.92.112.243:84"
+const API_BASE_URL = "http://107.22.149.95:84"   
+// pubip :port of backend
 //const API_BASE_URL = "http://backend.515800584282.realhandsonlabs.net";
 // export default API_BASE_URL;
 // const API_BASE_URL = process.env.REACT_APP_API_BASE_URL || "http://backend";
